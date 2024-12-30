@@ -19,7 +19,7 @@ ERC20, BEP20: <br/>
 0x16c65ae664755e5f56c678f3ee6de91f8619908b
 
 
-**Server3 **
+**Server3**
 TRC20: <br/>
 TAZkfeouaQmgtniEs5nnAzxHpQCV5jYF6q
 
