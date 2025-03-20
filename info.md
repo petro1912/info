@@ -1,5 +1,14 @@
 Payment Server Subscription
 
+**Server0**
+------------------------------------------------
+
+TRC20: <br/>
+TCKaUumwxRy9XiYK47QUwwSrGHCYaE5426
+
+ERC20, BEP20: <br/>
+0xe4839422fc9bdeaf92140fd10f0be7a21296ff9b
+
 **Server1**
 ------------------------------------------------
 
