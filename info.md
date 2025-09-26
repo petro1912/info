@@ -19,7 +19,7 @@ BEP20: <br/>
 0xe7DF41834F8d3c2B78986B1334d1AB47195445C6
 
 
-CY-Cash
+Cash
 ------------------------------------------------
 TErjyubcedqC98QPKgVK9XGTKK4Dsx8soX
 
